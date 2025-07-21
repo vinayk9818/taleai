@@ -1,0 +1,1 @@
+taleai is a creative web application developed using Flask that allows users to input a theme or prompt, and generates a story using LLaMA 3 (via Groq API). The story is then converted into realistic Hindi audio using the Google Text-to-Speech (gTTS) library, offering a voice-based storytelling experience for users who love suspense and drama.
